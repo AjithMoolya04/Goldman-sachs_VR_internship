@@ -1,0 +1,16 @@
+“Why are you interested in this role?”
+
+I recently participated in Goldman Sachs’ job simulation on Forage and it was
+incredibly useful to understand what it might be like to work as a governance
+analyst there. This simulation enabled me to build my experience cracking
+passwords using a range of tools including Hashcat.
+Once I had cracked passwords I was able to come up with a range of uplifts to
+suggest that would increase the overall level of password protection across the
+organization.
+Through this experience, I’ve validated that I really enjoy working on highly
+impactful technical projects in great detail. I can see just how this project
+would have a significant impact on Goldman Sachs as a company and on its
+customers by increasing the level of security to reduce the risk of a successful
+hack.
+In future, I would love to apply what I’ve learned during this job simulation in
+a governance team at Goldman Sachs.
