@@ -1,4 +1,4 @@
-# Goldman-sachs_VR_internship
+# Goldman-sachs_VR
 <!DOCTYPE html>
 <html lang="en">
 <head>
